@@ -1,0 +1,16 @@
+{
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2017-06-30 23:02:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2017-06-30 23:05:00 -0400",
+      "forest_hills": "2017-06-30 23:02:10 -0400",
+      "extreme_hills": "2017-06-30 23:04:10 -0400"
+    },
+    "done": false
+  }
+}
